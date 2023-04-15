@@ -48,6 +48,9 @@ gem 'bulma-rails', '~> 0.9.4'
 # Easy forms
 gem 'simple_form', '~> 5.2'
 
+# Recognises erb html
+gem 'htmlbeautifier'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 

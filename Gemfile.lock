@@ -118,6 +118,7 @@ GEM
       guard (~> 2.8)
       guard-compat (~> 1.0)
       multi_json (~> 1.8)
+    htmlbeautifier (1.4.2)
     http_parser.rb (0.8.0)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
@@ -266,6 +267,7 @@ DEPENDENCIES
   debug
   guard (~> 2.18)
   guard-livereload (~> 2.5)
+  htmlbeautifier
   importmap-rails
   jbuilder
   puma (~> 5.0)
