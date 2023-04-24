@@ -1,9 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple blog application to become familiar with Ruby on Rails.
 
-Things you may want to cover:
+Link to website deployed on Heroku:
+
+https://pacific-headland-20204.herokuapp.com/
 
 Stack:
 * Ruby on rails - web application framework that extends the Ruby language
