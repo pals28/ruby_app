@@ -1,9 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# README
 
-Things you may want to cover:
+Simple blog application to become familiar with Ruby on Rails.
 
 Stack:
 * Ruby on rails - web application framework that extends the Ruby language
