@@ -1,7 +1,5 @@
 # README
 
-# README
-
 Simple blog application to become familiar with Ruby on Rails.
 
 Stack:
